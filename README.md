@@ -37,6 +37,6 @@ Not necessary random, but mostly limited by what you want to achieve. If you jus
 * Correctness of applied methodology
   * Are you using the right DM method for the intended objective?
 * Experimental results, findings, conclusions
- * Show and explain the experimental results. Provide an analytical explanation of the results, regardless it is good or bad. Show your effort. Is the actual result same as what you have expected? If the result is bad, say with low accuracy, do you have any suggestions to improve it? It is fine to show bad results. You will not get a lower mark because of showing bad results.
+  * Show and explain the experimental results. Provide an analytical explanation of the results, regardless it is good or bad. Show your effort. Is the actual result same as what you have expected? If the result is bad, say with low accuracy, do you have any suggestions to improve it? It is fine to show bad results. You will not get a lower mark because of showing bad results.
 * Clarity of the final report
 * Challenges of the proposed problem: The instructor will compare the level of difficulty of your project with other teams.
