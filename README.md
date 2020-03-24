@@ -30,3 +30,14 @@ Not necessary random, but mostly limited by what you want to achieve. If you jus
   * Experimental Results (if any)
   * Summary or Conclusions
 
+### Evaluation criteria
+* Originality, scientific contributions, and impact
+Prepared by Steven Ding (Last update: 2020/01/30) Page 3 of 3
+ * Are you solving a new problem? What are the strengths of your proposed solution?
+ * If some materials in your paper and source code come from other papers, books, and any other sources, you must cite them properly.
+* Correctness of applied methodology
+  * Are you using the right DM method for the intended objective?
+* Experimental results, findings, conclusions
+ * Show and explain the experimental results. Provide an analytical explanation of the results, regardless it is good or bad. Show your effort. Is the actual result same as what you have expected? If the result is bad, say with low accuracy, do you have any suggestions to improve it? It is fine to show bad results. You will not get a lower mark because of showing bad results.
+ * Clarity of the final report
+ * Challenges of the proposed problem: The instructor will compare the level of difficulty of your project with other teams.
