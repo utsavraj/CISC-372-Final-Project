@@ -32,8 +32,8 @@ Not necessary random, but mostly limited by what you want to achieve. If you jus
 
 ### Evaluation criteria
 * Originality, scientific contributions, and impact
- * Are you solving a new problem? What are the strengths of your proposed solution?
- * If some materials in your paper and source code come from other papers, books, and any other sources, you must cite them properly.
+  * Are you solving a new problem? What are the strengths of your proposed solution?
+  * If some materials in your paper and source code come from other papers, books, and any other sources, you must cite them properly.
 * Correctness of applied methodology
   * Are you using the right DM method for the intended objective?
 * Experimental results, findings, conclusions
