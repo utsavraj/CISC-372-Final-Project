@@ -1,4 +1,4 @@
-# CISC-372-Final-Project
+# CISC 372: Final Project
 
 ## FeedBack of Project Proposal
 Very well-motivated project. Unfortunately we didn't have a chance to meet in person. But if needed, we can have a online video meeting.
