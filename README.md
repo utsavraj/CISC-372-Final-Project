@@ -1,5 +1,9 @@
 # CISC 372: Final Project
 
+## Notes on Project Design
+* Using Logistic Regression and Deep Neural Decision Trees
+ *  Naive Bayes is not used because
+
 ## Feedback of Project Proposal
 Very well-motivated project. Unfortunately we didn't have a chance to meet in person. But if needed, we can have a online video meeting.
 
