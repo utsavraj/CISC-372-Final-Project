@@ -14,4 +14,7 @@
 
 ### Misc
 * Project Description named as *Project-Description.pdf*
-* README.md with details on the feedback on Project Proposal and answer of our questions
+* Our Project Proposal named as *Project Proposal.pdf*
+* README.md with details on the feedback on Project Proposal and answer of our questions.
+
+#### Special Thanks to Dr. Steven H. H. Ding for his guidance and support.
